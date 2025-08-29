@@ -107,7 +107,8 @@ button:hover {
 }
 
 div .section2-right{
-    width: 360px; /* template for width*/
+    width: 360px;
+    height: auto; /* template for width*/
 }
 
 .section2-right {
@@ -115,7 +116,6 @@ div .section2-right{
     justify-content: center;
     align-items: center;
     color: white;
-    background-color: #e5e7eb67;
 }
 
 .section2-right .banner {
