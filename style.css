@@ -152,7 +152,6 @@ div .section2-right{
 }
 .profile {
     box-sizing:  border-box;
-    border: 2px solid rgb(38, 92, 255);
     width: 120px;
     height: 120px;
 }
